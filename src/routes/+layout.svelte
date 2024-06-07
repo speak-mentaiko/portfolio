@@ -24,11 +24,11 @@
     </div>
   </div>
 
-  <div class="bg-sky-100/50 h-full">
+  <div class="bg-sky-100/50">
     <slot />
   </div>
 
-  <div class="bg-blue-900/70 mt-auto">
+  <div class="bg-blue-900/70 mb-auto">
     <footer class="flex justify-center py-5 md:py-5">
       <p class="text-white text-sm">Copyright © 2024 speak-mentaiko</p>
     </footer>

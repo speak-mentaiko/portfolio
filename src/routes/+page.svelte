@@ -1,5 +1,5 @@
 <div class="space-y-4">
-  <div class="flex flex-col justify-center items-center text-xl py-16">
+  <div class="flex flex-col justify-center items-center text-xl py-10">
     <img
       src="https://github.com/speak-mentaiko.png"
       alt="icon"
@@ -7,7 +7,7 @@
     />
     <p class="pt-8">しゃべる明太子です。喋りません。</p>
   </div>
-  <div class="flex flex-col justify-center items-center text-xl space-y-2 pb-4">
+  <div class="flex flex-col justify-center items-center text-xl space-y-3 pb-4">
     <h2 class="text-2xl font-semibold">About</h2>
     <p class="text-center">
       八腕形目メンダコ科メンダコ属<br />
