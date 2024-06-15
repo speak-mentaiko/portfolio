@@ -7,12 +7,12 @@
     />
     <p class="pt-8">しゃべる明太子です。喋りません。</p>
   </div>
-  <div class="flex flex-col justify-center items-center text-xl space-y-3 pb-4">
+  <div class="flex flex-col justify-center items-center text-xl space-y-4 pb-4">
     <h2 class="text-2xl font-semibold">About</h2>
     <p class="text-center">
       八腕形目メンダコ科メンダコ属<br />
       成人済<br />
-      所属: <a href="https://poporon-net.pages.dev/">Poporon Network</a>
+      所属: <a href="https://poporon-net.pages.dev/" class="hover:underline">Poporon Network</a>
     </p>
     <h2 class="text-2xl font-semibold">Hobby</h2>
     <ul>
@@ -40,9 +40,9 @@
     </ul>
     <h2 class="text-2xl font-semibold">Links</h2>
     <p>
-      GitHub:<a href="https://github.com/speak-mentaiko/">@speak-mentaiko</a><br
+      GitHub:<a href="https://github.com/speak-mentaiko/" class="hover:underline">@speak-mentaiko</a><br
       />
-      Twitter:<a href="https://Twitter.com/speak_rnentaiko/">@speak_rnentaiko</a
+      Twitter:<a href="https://Twitter.com/speak_rnentaiko/" class="hover:underline">@speak_rnentaiko</a
       >
     </p>
   </div>
