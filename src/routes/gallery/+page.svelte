@@ -4,7 +4,7 @@
     href="https://github.com/speak-mentaiko/BoxRun"
     class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
   >
-    <img src="/src/lib/images/boxrun.png" alt="img" />
+    <img src="/images/boxrun.png" alt="img" />
     <h5
       class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
     >
@@ -19,7 +19,7 @@
     href="https://github.com/speak-mentaiko/BoxRun.io"
     class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
   >
-    <img src="/src/lib/images/boxrun.io.png" alt="img" />
+    <img src="/images/boxrun.io.png" alt="img" />
     <h5
       class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
     >
@@ -34,7 +34,7 @@
     href="https://github.com/speak-mentaiko/portfolio"
     class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
   >
-    <img src="/src/lib/images/portfolio.png" alt="img" />
+    <img src="/images/portfolio.png" alt="img" />
     <h5
       class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
     >
@@ -44,5 +44,4 @@
       ポートフォリオサイト。SveltekitとTailwindで作成
     </p>
   </a>
-  
 </div>
