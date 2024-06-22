@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        body: ['IZ UDGothic']
+        body: ['BIZ UDGothic']
       }
     },
   },
