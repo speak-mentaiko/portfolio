@@ -39,6 +39,19 @@
       SveltekitとTailwindで作成
     </p>
   </a>
+
+  <a
+    href="https://github.com/speak-mentaiko/bf"
+    class="block w-96 p-6 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-100"
+  >
+    <img src="/images/bf.png" alt="img" />
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">bf</h5>
+    <p class="font-normal text-gray-700">
+      ブログ的なの<br />
+      ReactとChakraUIで作成
+    </p>
+  </a>
+
   <h2 class="text-2xl font-semibold">Others</h2>
   <a
     href="https://github.com/mct-joken/WashBoard"
